@@ -1,0 +1,12 @@
+[package]
+name = "foo"
+version = "0.0.1"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+cargo-component-bindings = "0.4.1"
+
+[package.metadata.component.dependencies]

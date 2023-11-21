@@ -1,0 +1,9 @@
+package org:foo
+
+interface api {
+  hello-world: func() -> string
+}
+
+world foo {
+  export api
+}
