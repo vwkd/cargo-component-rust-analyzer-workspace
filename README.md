@@ -1,6 +1,6 @@
 # README
 
-Reproduction for missing IntelliSense for cargo-component `0.4.1` with Rust Analyzer.
+Reproduction for missing IntelliSense for cargo-component `0.4.1` with Rust Analyzer. See [cargo-component#139](https://github.com/bytecodealliance/cargo-component/issues/139#issuecomment-1820609274).
 
 
 
